@@ -1,0 +1,37 @@
+---
+sidebar_position: 1
+---
+
+# List of Fundamental Rules
+- Fundamental theorem of **Algebra**
+- Fundamental theorem of **Algebraic K-theory**
+- Fundamental theorem of **Arithmetic**
+- Fundamental theorem of **Boolean Algebra**
+- Fundamental theorem of **Calculus**
+- Fundamental theorem of **Calculus for Line Integrals**
+- Fundamental theorem of **Curves**
+- Fundamental theorem of **Cyclic Groups**
+- Fundamental theorem of **Dynamical Systems**
+- Fundamental theorem of **Equivalence Relations**
+- Fundamental theorem of **exterior calculus**
+- Fundamental theorem of **finitely generated modules over a principal ideal domain**
+- Fundamental theorem of **finitely generated abelian groups**
+- Fundamental theorem of **finite distributive lattices**
+- Fundamental theorem of **Galois theory**
+- Fundamental theorem of **geometric calculus**
+- Fundamental theorem on **homomorphisms**
+- Fundamental theorem of **ideal theory in number fields**
+- Fundamental theorem of **Lebesgue integral calculus**
+- Fundamental theorem of **linear algebra**
+- Fundamental theorem of **linear programming**
+- Fundamental theorem of **noncommutative algebra**
+- Fundamental theorem of **projective geometry**
+- Fundamental theorem of **random fields**
+- Fundamental theorem of **Riemannian geometry**
+- Fundamental theorem of **tessarine algebra**
+- Fundamental theorem of **symmetric polynomials**
+- Fundamental theorem of **topos theory**
+- Fundamental theorem of **ultraproducts**
+- Fundamental theorem of **vector analysis**
+- "Fundamental theorem" of **quadratic residues**
+  - Carl Friedrich Gauss referred to the law of quadratic reciprocity as the "fundamental theorem" of quadratic residues.
